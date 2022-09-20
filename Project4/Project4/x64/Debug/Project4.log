@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Programming\CPP\Project4\Project4\main.cpp(104,1): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Project4.vcxproj -> D:\Programming\CPP\Project4\x64\Debug\Project4.exe
