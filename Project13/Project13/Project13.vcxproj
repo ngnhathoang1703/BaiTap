@@ -127,7 +127,24 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Certificate.cpp" />
+    <ClCompile Include="Employee.cpp" />
+    <ClCompile Include="Exception.cpp" />
+    <ClCompile Include="Experience.cpp" />
+    <ClCompile Include="Fresher.cpp" />
+    <ClCompile Include="Intern.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Manage.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Certificate.h" />
+    <ClInclude Include="Employee.h" />
+    <ClInclude Include="Exception.h" />
+    <ClInclude Include="Experience.h" />
+    <ClInclude Include="Fresher.h" />
+    <ClInclude Include="Intern.h" />
+    <ClInclude Include="LibBase.h" />
+    <ClInclude Include="Manage.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
